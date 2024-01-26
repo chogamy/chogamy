@@ -4,9 +4,11 @@
 - Work: [JBNU NLL Lab](https://sites.google.com/view/nlllab/main?authuser=0)
 - Interests:
   
-    Uncertainty
+    Non-autoregressive Generation
+
+    Unlearning
   
-    Selective Classification
+    Selective Prediction
 
     Explainable AI
 
