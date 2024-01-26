@@ -1,7 +1,6 @@
 <h1>Hi, I'm Seongmin Cho</h1>
 
 - Email: **gamy0315@daum.net**
-- Work: [JBNU NLL Lab](https://sites.google.com/view/nlllab/main?authuser=0)
 - Interests:
   
     Non-autoregressive Generation
