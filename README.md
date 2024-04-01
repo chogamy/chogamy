@@ -7,10 +7,6 @@
 
     Unlearning
   
-    Selective Prediction
-
-    Explainable AI
-
     Machine Learning
 
 
