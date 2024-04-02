@@ -5,6 +5,8 @@
   
     Non-autoregressive Generation
 
+    Open Intent Detection
+
     Unlearning
   
     Machine Learning
