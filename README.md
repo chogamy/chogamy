@@ -5,7 +5,7 @@
   
     Non-autoregressive Generation
 
-    Korean morphological analysis
+    Korean Morphological Analysis
 
     Unlearning
   
