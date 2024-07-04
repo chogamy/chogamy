@@ -5,7 +5,7 @@
   
     Non-autoregressive Generation
 
-    Open Intent Detection
+    Korean morphological analysis
 
     Unlearning
   
